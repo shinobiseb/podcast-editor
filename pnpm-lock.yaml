@@ -6,7 +6,7 @@ settings:
 
 importers:
 
-  .:
+  web:
     devDependencies:
       '@sveltejs/vite-plugin-svelte':
         specifier: ^7.3.1
